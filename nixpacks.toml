@@ -1,0 +1,6 @@
+[build]
+  backend = "backend/"
+  frontend = "frontend/"
+
+[deploy]
+  start = "npm run start" 
